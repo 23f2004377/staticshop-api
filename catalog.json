@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "email": "23f2004377@ds.study.iitm.ac.in",
+    "version": "4b941760"
+  },
+  "products": [
+    {"id":1,"name":"Book A","category":"books","price":1200.50,"stock":10,"rating":4.5},
+    {"id":2,"name":"Book B","category":"books","price":850.00,"stock":12,"rating":4.2},
+    {"id":3,"name":"Book C","category":"books","price":640.25,"stock":8,"rating":4.0},
+    {"id":4,"name":"Book D","category":"books","price":1500.00,"stock":5,"rating":4.8},
+    {"id":5,"name":"Book E","category":"books","price":980.75,"stock":15,"rating":4.3},
+    {"id":6,"name":"Phone","category":"electronics","price":25000,"stock":4,"rating":4.6},
+    {"id":7,"name":"Laptop","category":"electronics","price":55000,"stock":3,"rating":4.7},
+    {"id":8,"name":"Headphones","category":"electronics","price":3000,"stock":20,"rating":4.4},
+    {"id":9,"name":"Keyboard","category":"electronics","price":1500,"stock":18,"rating":4.1},
+    {"id":10,"name":"Mouse","category":"electronics","price":800,"stock":25,"rating":4.0},
+    {"id":11,"name":"Chair","category":"furniture","price":4500,"stock":6,"rating":4.2},
+    {"id":12,"name":"Table","category":"furniture","price":7500,"stock":4,"rating":4.5},
+    {"id":13,"name":"Lamp","category":"furniture","price":1200,"stock":10,"rating":4.1},
+    {"id":14,"name":"Notebook","category":"stationery","price":120,"stock":100,"rating":4.3},
+    {"id":15,"name":"Pen","category":"stationery","price":20,"stock":300,"rating":4.0},
+    {"id":16,"name":"Marker","category":"stationery","price":60,"stock":80,"rating":4.2},
+    {"id":17,"name":"Stapler","category":"stationery","price":250,"stock":40,"rating":4.1}
+  ],
+  "aggregations": {
+    "books": {
+      "count": 5,
+      "inventoryValue": 61588.90
+    }
+  }
+}
