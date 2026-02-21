@@ -161,5 +161,21 @@
   "home": {
     "count": 0,
     "inventoryValue": 0
+  },
+  "beauty": {
+    "count": 0,
+    "inventoryValue": 0
+  },
+  "toys": {
+    "count": 0,
+    "inventoryValue": 0
+  },
+  "grocery": {
+    "count": 0,
+    "inventoryValue": 0
+  },
+  "automotive": {
+    "count": 0,
+    "inventoryValue": 0
   }
 }
